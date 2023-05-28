@@ -1,5 +1,7 @@
 # ReptiMate
 
+Note: original development project: https://github.com/apeTrackunit/lizards-inc-fe
+
 [![Master workflow](https://github.com/apeTrackunit/lizards-inc-fe/actions/workflows/master-push.yaml/badge.svg?branch=master)](https://github.com/apeTrackunit/lizards-inc-fe/actions/workflows/master-push.yaml)
 
 The project is for course SEP4 where we create an app for moitoring the environment inside terrariums.
@@ -11,11 +13,7 @@ Technologies used:
 
 ## Links
 - Website available on: https://reptimate.netlify.app/
-- Test coverage available on: https://apetrackunit.github.io/lizards-inc-fe/
-
-Note: 
-To use the deployed page, go to site settings, and set the 'Insecure content' to allow.
-This is because the frontend is deployed on an https endpoint, but the backend is on a http endpoint.
+- Test coverage available on: https://enbi81.github.io/lizards-inc-fe/
 
 ## GIT rules 
 
